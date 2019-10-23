@@ -9,7 +9,7 @@ import time
 # Please only update parameters below
 ### Start parameter list ####
 EMAIL_USER = 'cbuzon@alumni.ateneo.edu'
-EMAIL_PASS = 'clinton1234'
+EMAIL_PASS = 'xxxxxxxxxx'
 EMAIL_IMAP_HOST = 'imap.gmail.com'
 EMAIL_IMAP_PORT = '993'
 BUCKET_NAME='clinton-simple-datalake'
